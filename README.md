@@ -2,9 +2,9 @@
 
 [Enter the Map here](https://play.workadventu.re/_/global/hrueter.github.io/aei-potsdam-adventure/map.json)
 
-# Reporting issues with the software:
+# Reporting issues with the software
 
-[Workdadventure Github Repository](https://github.com/thecodingmachine/workadventure/)
+[Workadventure Github Repository](https://github.com/thecodingmachine/workadventure/)
 
 # Customizing the Map
 
